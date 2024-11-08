@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Java**
 
-- 💬 Pregúntame sobre **JavaScript**
+- 💬 Pregúntame sobre **JavaScript/React**
 
 - 📫 Contacto **fgjv06@gmail.com**
 
