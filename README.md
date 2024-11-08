@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogbz&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogbz" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React**
+- 🌱 Actualmente estoy aprendiendo **Java**
 
 - 💬 Pregúntame sobre **JavaScript**
 
