@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandogbz&label=Profile%20views&color=0e75b6&style=flat" alt="fernandogbz" /> </p>
 
-- 🌱 Actualmente estoy aprendiendo **Java**
+- 🌱 Actualmente estoy aprendiendo **TypeScript**
 
-- 💬 Pregúntame sobre **JavaScript/React**
+- 💬 Pregúntame sobre **JavaScript/React - Java **
 
 - 📫 Contacto **fgjv06@gmail.com**
 
