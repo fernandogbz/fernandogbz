@@ -5,7 +5,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript**
 
-- 💬 Pregúntame sobre **JavaScript/React - Java **
+- 💬 Pregúntame sobre **JavaScript/React-Java-Python**
 
 - 📫 Contacto **fgjv06@gmail.com**
 
